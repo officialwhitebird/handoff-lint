@@ -48,4 +48,4 @@ Representative behavior:
 
 ## Publication status
 
-Prepared for owner approval to publish. This file is local release-preparation material until publication is explicitly approved.
+Published as `v0.1.0`.
